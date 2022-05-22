@@ -14,3 +14,4 @@ git merge newBranchName - слияние веток newBranchName и main
 
 Ресурсы:
 Git: наглядная справка https://marklodato.github.io/visual-git-guide/index-ru.html
+https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow

@@ -6,6 +6,8 @@ git pull
 
 git checkout
 
+git checkout -b newBranchName
+git branch - список локальных ветвей
 
 Ресурсы:
 Git: наглядная справка https://marklodato.github.io/visual-git-guide/index-ru.html

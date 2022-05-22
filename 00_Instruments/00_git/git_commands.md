@@ -8,6 +8,8 @@ git checkout
 
 git checkout -b newBranchName
 git branch - список локальных ветвей
+git checkout newBranchName - переключение на ветку "newBranchName"
+git checkout main - переключение на ветку "main"
 
 Ресурсы:
 Git: наглядная справка https://marklodato.github.io/visual-git-guide/index-ru.html
